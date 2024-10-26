@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: white;
+}
+
+header {
+    background-color: black;
+}
+
+header h1 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 70px;
+}
+
+header img {
+    width: 100%;
+}
+
+.desc-section {
+    background-color: black;
+    padding: 45px 150px 66px 150px;
+}
+
+.desc-section .wrapper div p{
+    font-weight: 300;
+    width: 475px;
+    font-size: 16px;
+    padding-right: 100px;  
+}
+
+.desc-section .wrapper img{
+    width: 399px;
+}
+
+.desc-section .wrapper div, img{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.icons-section {
+    background-color: #1e1a13;
+    text-align: center;
+}
+
+.icons-section h2 {
+    font-weight: 500;
+    padding-top: 75px;
+    padding-bottom: 30px;
+    font-size: 47px;
+    padding-right: 80px;
+}
+
+.icons-section .iconos div {
+    padding-bottom: 75px;
+    font-size: 29px;
+    font-weight: 300;
+    display: inline-block;
+    margin-right: 120px;
+}
+
+.carrusel{
+    background-color: black;
+}
+.carrusel img{
+    width: 316px;
+    height: 202px;
+}
+
+.carrusel div{
+    padding: 73px 150px 73px 150px;
+}
+
+.carrusel div img{
+    margin-right: 8px;
+}
+
+footer{
+    background-color: #1e1a13;
+}
+
+footer p{
+    padding: 20px;
+    text-align: center;
+    font-weight: 300;
+    font-size: 24px;
+}
